@@ -1,0 +1,7 @@
+.item {
+    margin-bottom: 10px;
+}
+
+.item:hover {
+    color: rgb(1, 173, 164);
+}
